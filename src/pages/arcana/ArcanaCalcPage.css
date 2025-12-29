@@ -1,0 +1,12 @@
+.arcanaCalc-job-list ul {
+    display: flex;
+    gap: 1rem;
+
+}
+.arcanaCalc-job-list ul li{
+    border: 1px solid #242424;
+}
+
+.arcanaCalc-job-list-btn.active {
+    font-weight: bold;
+}

@@ -1,0 +1,10 @@
+:root{
+    color: #242424;
+}
+
+li {
+    list-style: none;
+}
+button{
+    cursor: pointer;
+}
